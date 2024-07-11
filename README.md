@@ -1,11 +1,11 @@
-# Q-Folio
+# RapidFolio
 
-Access Demo Resume at [https://www.mqasimriaz.com/](https://www.mqasimriaz.com/)
+Access Demo Resume Here
 
 ## Project Structure
 
 ```sh
-Q-Folio/
+RapidFolio/
 ├── assets/
 │   ├── css/
 │   │   └── styles.css
@@ -35,5 +35,5 @@ Basic knowledge of HTML, CSS, JS, and Bootstrap.
 Clone the repository:
 
 ```sh
-git clone https://github.com/qasimriaz002/Q-Folio.git 
+git clone https://github.com/qasimriaz002/RapidFolio-Portfolio-CV.git 
 ```
